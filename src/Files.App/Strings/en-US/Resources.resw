@@ -3932,4 +3932,7 @@
   <data name="ShowSystemTrayIcon" xml:space="preserve">
     <value>Show Files icon in the System Tray</value>
   </data>
+  <data name="CompressContents" xml:space="preserve">
+    <value>Compress contents</value>
+  </data>
 </root>
